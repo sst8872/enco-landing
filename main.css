@@ -404,6 +404,12 @@ nav ul li a:hover {
     opacity: 1;
 }
 
+.img-text a {
+    color: var(--yellow);
+    text-decoration: none;
+    margin-top: 5px;
+}
+
 @media screen and (min-width: 576px) {
     .projects-container {
         display: grid;
