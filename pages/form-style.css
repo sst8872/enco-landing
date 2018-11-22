@@ -7,6 +7,11 @@ body {
     font-family: arial, sans-serif;
 }
 
+#form-container {
+    width: 90vw;
+}
+
+
 header {
     background: #0d0d0d;
     padding: 20px;
