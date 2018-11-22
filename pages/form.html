@@ -9,9 +9,10 @@
   <body>
     <div id="form-container">
       <header><img src="img/logo.png" /></header>
-      <form>
+      <form action="https://formspree.io/sst8872@gmail.com" method="POST">
         <!-- Gender -->
         <p>나는...</p>
+        <input type="hidden" name="_next" value="pages/thanks.html" />
         <input type="radio" id="individual" name="individual" />
         <label for="individual">개인</label><br />
         <input type="radio" id="business" name="business" />
@@ -29,17 +30,17 @@
         <!-- Contact details -->
         <fieldset>
           <legend>연락처를 적어 주세요.</legend>
-          <input type="email" placeholder="Email" required />
+          <input type="email" placeholder="Email" name="email" required />
           <span class="tick"></span>
-          <input type="telephone" placeholder="Phone number" required />
+          <input type="telephone" placeholder="Phone number" name="telephone" required />
           <span class="tick"></span>
         </fieldset>
         <!-- Preferred -->
         <fieldset>
          <legend>어떻게 연락 받으시겠습니까?</legend>
           <select>
-            <option>이메일이 좋아요.</option>
-            <option>전화가 좋아요.</option>
+            <option value="1">이메일이 좋아요.</option>
+            <option value="2">전화가 좋아요.</option>
           </select>
           <input type="submit" value="제출하기" />
         </fieldset>
