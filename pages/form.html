@@ -9,41 +9,26 @@
   <body>
     <div id="form-container">
       <header><img src="img/logo.png" /></header>
-      <form action="https://formspree.io/sst8872@gmail.com" method="POST">
-        <!-- Gender -->
-        <p>나는...</p>
-        <input type="hidden" name="_next" value="https://sst8872.github.io/enco-landing/pages/thanks.html" />
-        <input type="radio" id="individual" name="individual" />
-        <label for="individual">개인</label><br />
-        <input type="radio" id="business" name="business" />
-        <label for="business">사업자</label>
-
-        <!-- Interests -->
-        <p>다음에 관심이 있습니다.</p>
-        <input type="checkbox" id="web" /> <label for="web">홈페이지 제작</label
-        ><br />
-        <input type="checkbox" id="english" />
-        <label for="english">영어 콘텐츠</label><br />
-        <input type="checkbox" id="shooting" />
-        <label for="shooting">동영상 강의 촬영</label>
-
+      <form action="https://docs.google.com/forms/d/e/1FAIpQLScrcNS2m93SP5rKJYd29D30Jc0nr-HCq8iAtttJJ7z7XS3qLA/formResponse?embedded=true" target="_self" method="POST" id="mG61Hd">
         <!-- Contact details -->
         <fieldset>
-          <legend>연락처를 적어 주세요.</legend>
-          <input type="email" placeholder="Email" name="email" required />
+          <legend>이름과 연락처</legend>
+          <input type="email" placeholder="이름" name="entry.1962201317" required />
           <span class="tick"></span>
-          <input type="telephone" placeholder="Phone number" name="telephone" required />
+          <input type="telephone" placeholder="전화번호" name="entry.1065046570" required />
+          <span class="tick"></span>
+          <input type="email" placeholder="이메일" name="entry.337093975" required />
           <span class="tick"></span>
         </fieldset>
-        <!-- Preferred -->
         <fieldset>
-         <legend>어떻게 연락 받으시겠습니까?</legend>
-          <select>
-            <option value="1">이메일이 좋아요.</option>
-            <option value="2">전화가 좋아요.</option>
+          <legend>원하는 유형</legend>
+          <select name="entry.839337160">
+            <option value="1">TYPE-1</option>
+            <option value="2">TYPE-2</option>
+            <option value="2">TYPE-3</option>
           </select>
-          <input type="submit" value="제출하기" />
         </fieldset>
+       <input type="submit" value="제출하기" />
       </form>
     </div>
   </body>

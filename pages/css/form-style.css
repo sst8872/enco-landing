@@ -140,6 +140,7 @@ input[type="submit"] {
 
 /* 6 - INPUT VALIDATION STYLES */
 input[type="email"]:valid,
+input[type="text"]:valid,
 input[type="telephone"]:valid {
     border: 2px solid #fff;
 }
@@ -148,12 +149,13 @@ input[type="email"]:valid {
     background-position: 7px -22px;
 }
 
-input[type="telephone"]:valid {
+input[type="text"]:valid {
     background-position: 7px -97px;
 }
 
 input[type="email"]:valid + .tick,
-input[type="telephone"]:valid + .tick {
+input[type="text"]:valid + .tick,
+input[type="text"]:valid + .tick {
     background: url(../img/tick.png) center;
     background-size: 100%;
     display: block;
