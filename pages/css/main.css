@@ -173,14 +173,14 @@ nav ul li a:hover {
   font-size: 1.8rem;
   letter-spacing: 2px;
   margin: 1.8rem 0;
-  color: var(--yellow);
+  color: var(--white);
   text-transform: capitalize;
 }
 
 .skills-item p {
   width: 75%;
   margin: 0 auto;
-  color: var(--white);
+  color: var(--black);
 }
 /* skills end */
 
