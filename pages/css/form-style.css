@@ -90,6 +90,7 @@ legend {
 }
 
 input[type="email"],
+input[type="text"],
 input[type="telephone"] {
     display: block;
     margin-bottom: 20px;
@@ -100,6 +101,10 @@ input[type="telephone"] {
     color: #fff;
     float: left;
     clear: both;
+}
+
+input[type="text"] {
+    background: url(../img/person.png) no-repeat 6px;
 }
 
 input[type="email"] {
@@ -145,16 +150,20 @@ input[type="telephone"]:valid {
     border: 2px solid #fff;
 }
 
+input[type="text"]:valid {
+    background: url(../img/person-white.png) no-repeat 6px;
+}
+
 input[type="email"]:valid {
     background-position: 7px -22px;
 }
 
-input[type="text"]:valid {
+input[type="telephone"]:valid {
     background-position: 7px -97px;
 }
 
 input[type="email"]:valid + .tick,
-input[type="text"]:valid + .tick,
+input[type="telephone"]:valid + .tick,
 input[type="text"]:valid + .tick {
     background: url(../img/tick.png) center;
     background-size: 100%;
