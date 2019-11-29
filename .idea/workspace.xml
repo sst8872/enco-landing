@@ -18,6 +18,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectId" id="1UGLQNE8cW7HMAxhMn3zj0NgGvr" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -25,23 +26,27 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\user\Desktop\html-projects\webAgency\pages\img\type1" />
-      <recent name="C:\Users\user\Desktop\html-projects\webAgency\pages\css" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\projects\sites-projects\enco-landing\images" />
       <recent name="C:\Users\user\Desktop\html-projects\webAgency\pages\img\price" />
       <recent name="C:\Users\user\Desktop\html-projects\webAgency\pages\img\type1" />
       <recent name="C:\Users\user\Desktop\html-projects\webAgency\pages\img" />
       <recent name="C:\Users\user\Desktop\html-projects\webAgency\pages" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\projects\sites-projects\enco-landing\images" />
+      <recent name="C:\Users\user\Desktop\projects\sites-projects\enco-landing" />
+      <recent name="C:\Users\user\Desktop\html-projects\webAgency\pages\img\type1" />
+      <recent name="C:\Users\user\Desktop\html-projects\webAgency\pages\css" />
     </key>
   </component>
   <component name="RunManager">
@@ -95,6 +100,7 @@
       <workItem from="1543203607348" duration="2076000" />
       <workItem from="1543205927684" duration="462000" />
       <workItem from="1574953967024" duration="4774000" />
+      <workItem from="1574977973278" duration="10226000" />
     </task>
     <servers />
   </component>
@@ -107,10 +113,10 @@
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
-    <state x="1155" y="276" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1574958592633">
+    <state x="1155" y="276" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1574988011686">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="1155" y="276" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1574958592633" />
+    <state x="1155" y="276" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1574988011686" />
     <state x="922" y="172" key="SettingsEditor" timestamp="1574957730866">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
