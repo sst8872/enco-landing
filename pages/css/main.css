@@ -176,7 +176,6 @@ nav ul li a:hover {
   color: var(--white);
   text-transform: capitalize;
 }
-
 .skills-item p {
   width: 75%;
   margin: 0 auto;
@@ -348,14 +347,14 @@ nav ul li a:hover {
   color: var(--white);
   overflow: hidden;
   margin: 1.25rem 0;
-  transition: all 0.1s ease-in-out;
+  /*transition: all 0.1s ease-in-out;*/
 }
 
 #projects img {
   width: 100%;
   min-height: 100%;
   display: block;
-  transition: transform 4s;
+  transition: transform 1s;
 }
 
 .img-text {
@@ -365,7 +364,7 @@ nav ul li a:hover {
   transform: translate(-50%, -50%);
   text-align: center;
   opacity: 0;
-  transition: opacity 2s;
+  transition: opacity 1s;
 }
 
 .img-footer {
@@ -505,7 +504,7 @@ nav ul li a:hover {
   transform: translate(-50%, -50%);
   font-size: 3rem;
   color: var(--yellow);
-  transition: opacity 4s;
+  transition: opacity 1s;
   opacity: 0;
 }
 

@@ -35,18 +35,18 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\projects\sites-projects\enco-landing\images" />
+      <recent name="C:\Users\user\Desktop\projects\sites-projects\enco-landing" />
+      <recent name="C:\Users\user\Desktop\html-projects\webAgency\pages\img\type1" />
+      <recent name="C:\Users\user\Desktop\html-projects\webAgency\pages\css" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\user\Desktop\projects\sites-projects\enco-landing\images" />
       <recent name="C:\Users\user\Desktop\html-projects\webAgency\pages\img\price" />
       <recent name="C:\Users\user\Desktop\html-projects\webAgency\pages\img\type1" />
       <recent name="C:\Users\user\Desktop\html-projects\webAgency\pages\img" />
       <recent name="C:\Users\user\Desktop\html-projects\webAgency\pages" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\user\Desktop\projects\sites-projects\enco-landing\images" />
-      <recent name="C:\Users\user\Desktop\projects\sites-projects\enco-landing" />
-      <recent name="C:\Users\user\Desktop\html-projects\webAgency\pages\img\type1" />
-      <recent name="C:\Users\user\Desktop\html-projects\webAgency\pages\css" />
     </key>
   </component>
   <component name="RunManager">
@@ -101,6 +101,8 @@
       <workItem from="1543205927684" duration="462000" />
       <workItem from="1574953967024" duration="4774000" />
       <workItem from="1574977973278" duration="11318000" />
+      <workItem from="1574999420823" duration="69000" />
+      <workItem from="1575160340328" duration="7690000" />
     </task>
     <servers />
   </component>
@@ -113,10 +115,10 @@
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
-    <state x="1155" y="276" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1574988011686">
+    <state x="1155" y="276" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1575167776492">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="1155" y="276" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1574988011686" />
+    <state x="1155" y="276" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1575167776492" />
     <state x="922" y="172" key="SettingsEditor" timestamp="1574957730866">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
